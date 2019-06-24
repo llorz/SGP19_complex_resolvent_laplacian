@@ -23,7 +23,7 @@ Main Function
 %   mask_type: 'standard', 'slant', or 'complRes' 
 % Output:
 %   C12: a functional map from S1 -> S2 (k2-by-k1 matrix)
-%   Mask: the penaly mask used to regularize C12
+%   Mask: the penalty mask used to regularize C12
 ```
 - Compute a functional map with different penalty mask term:
   - "**standard**": the standard Laplacian commutativity term (formulated as a mask)
