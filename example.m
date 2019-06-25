@@ -31,8 +31,8 @@ S2 = MESH.preprocess(S2,meshOptions{:});
 B1 = S1.evecs(:,1:k1); B2 = S2.evecs(:,1:k2);
 Ev1 = S1.evals(1:k1); Ev2 = S2.evals(1:k2); 
 
-fct1_all = waveKernelSignature(B1, Ev1, S1.A, numTimes);
-fct2_all = waveKernelSignature(B2, Ev2, S2.A, numTimes);
+fct1_all = fMAP.waveKernelSignature(B1, Ev1, S1.A, numTimes);
+fct2_all = fMAP.waveKernelSignature(B2, Ev2, S2.A, numTimes);
 fct1 = fct1_all(:,1:numSkip:end);
 fct2 = fct2_all(:,1:numSkip:end);
 
