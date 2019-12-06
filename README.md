@@ -37,3 +37,11 @@ Comments
 - You can find our paper [here](https://www.dropbox.com/s/ctvor2e25eaaev6/2019SGP_Structured_Regularization_fMap.pdf?dl=0)
 - The dataset used in the paper can be found [here](https://github.com/llorz/SGA18_orientation_BCICP_dataset)
 - Please let us know (jing.ren@kaust.edu.sa) if you have any question regarding the algorithms/paper ฅ^•ﻌ•^ฅ or you find any bugs in the code \_(°ω°｣∠)\_
+
+
+
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License
+
